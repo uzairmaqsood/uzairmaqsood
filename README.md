@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Uzair
+- 👀 I’m interested in polishing coding skills.
+- 🌱 I’m currently learning CS50
+- 💞️ I’m looking to collaborate on Adventures
+- 📫 How to reach me uzairmaqsood@gmail.com
